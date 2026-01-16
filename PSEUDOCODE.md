@@ -39,3 +39,7 @@ Output: Model performance, calibration, fairness, and explainability results
    - Aggregate local explanations across high-risk patients
    - Perform PCA-based clustering of feature contributions
    - Generate figures and tables for reporting
+
+<img width="923" height="375" alt="image" src="https://github.com/user-attachments/assets/37055478-ab99-4fca-b1e1-34e63a9e2baf" />
+
+     
